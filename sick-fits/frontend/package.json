@@ -61,6 +61,9 @@
     "react-test-renderer": "^17.0.1"
   },
   "eslintConfig": {
+    "rules": {
+      "react/jsx-props-no-spreading": false
+    },
     "extends": [
       "wesbos"
     ]
