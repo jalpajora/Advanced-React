@@ -34,7 +34,7 @@ function createClient({ headers, initialState }) {
       typePolicies: {
         Query: {
           fields: {
-            // TODO: We will add this together!
+            // TODO: We will add this together! Yehey!
             // allProducts: paginationField(),
           },
         },
